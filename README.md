@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loyal-Experts
 - 👀 I’m interested in providing writing services
 - - 🌱 I’m currently learning how to create an engeging website for writing services
-- 💞️ I’m looking to collaborate on web designing
+- 💞️ I’m looking to collaborate on academic writing and web designing
 - 📫 How to reach me via loyalexpertize@gmail.com
 
 <!---
